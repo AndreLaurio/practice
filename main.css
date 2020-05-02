@@ -1,0 +1,54 @@
+@font-face { font-family: Roboto; src: url('fonts/Roboto-Regular.ttf'); } 
+@font-face { font-family: ronalyn; src: url('fonts/Roboto-Thin.ttf'); } 
+div{
+    background-color: green;
+}
+
+.mars{
+    background-color: red;
+}
+
+#world{
+    background-color: rgb(2, 2, 68);
+}
+
+#world h1{
+   color: orange;
+}
+
+/* .jupiter:hover{
+    background-color: palevioletred;
+} */
+
+.jupiter h1, h2:hover{
+    color: purple;
+}
+
+.title{
+    text-align: center;
+    color: chocolate;
+    font-family: 'ronalyn';
+}
+
+.parent-div{
+    background-color: cyan;
+}
+
+.btn-div{
+    text-align: center;
+    background-color: white;
+}
+
+.button{
+    background-color: lightblue;
+    border-color: green;
+    color: red;
+    width: 200px;
+    height: 100px;
+    border-radius: 150px;
+}
+
+.button:hover{
+    background-color: pink;
+}
+
